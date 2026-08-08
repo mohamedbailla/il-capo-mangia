@@ -90,6 +90,25 @@ export default function Footer() {
 
         <div className="divider-gold mb-6" />
 
+        {/* Designer credit */}
+        <div className="flex items-center justify-center gap-3 mb-4 flex-wrap">
+          <span className="text-xs" style={{ color: "rgba(255,255,255,0.2)" }}>
+            Diseñado por <span style={{ color: "rgba(255,255,255,0.35)" }}>Meed</span>
+            {" · "}
+            <a href="https://wa.me/34632013519" target="_blank" rel="noopener noreferrer"
+              style={{ color: "rgba(255,255,255,0.25)", textDecoration: "none" }}
+              onMouseEnter={(e) => { e.currentTarget.style.color = "rgba(255,255,255,0.5)"; }}
+              onMouseLeave={(e) => { e.currentTarget.style.color = "rgba(255,255,255,0.25)"; }}
+            >632 013 519</a>
+            {" · "}
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=epicdead52%40gmail.com" target="_blank" rel="noopener noreferrer"
+              style={{ color: "rgba(255,255,255,0.25)", textDecoration: "none" }}
+              onMouseEnter={(e) => { e.currentTarget.style.color = "rgba(255,255,255,0.5)"; }}
+              onMouseLeave={(e) => { e.currentTarget.style.color = "rgba(255,255,255,0.25)"; }}
+            >epicdead52@gmail.com</a>
+          </span>
+        </div>
+
         <div className="flex items-center justify-between gap-3">
           <p className="text-xs" style={{ color: "var(--text-muted)" }}>© {year} Restaurante IL Capo Mangia. {f.rights}</p>
           <a
