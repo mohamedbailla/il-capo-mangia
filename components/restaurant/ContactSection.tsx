@@ -23,7 +23,7 @@ export default function ContactSection() {
             <div className="h-px w-10" style={{ backgroundColor: "var(--gold)" }} />
           </div>
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4" style={{ fontFamily: "Georgia, serif", color: "var(--cream)" }}>{c.title}</h2>
-          <p className="text-base max-w-lg mx-auto" style={{ color: "var(--text-muted)", fontStyle: "italic" }}>{c.subtitle}</p>
+          <p className="text-base max-w-xl mx-auto" style={{ color: "var(--cream-muted)", fontFamily: "Georgia, serif", fontStyle: "italic" }}>{c.subtitle}</p>
         </div>
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">
