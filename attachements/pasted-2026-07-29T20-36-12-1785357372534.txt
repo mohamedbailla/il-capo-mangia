@@ -1,0 +1,91 @@
+Create a premium, modern and professional website for:
+
+Restaurante IL Capo Mangia
+
+Italian Restaurant in Almería, Spain.
+
+Business information:
+- Name: Restaurante IL Capo Mangia
+- Address: P.º Marítimo Carmen de Burgos, 78, 04007 Almería, Spain
+- Phone: 640 57 37 81
+- Google rating: 4.6 stars
+- Reviews: 1,230+
+- Price range: €10–20 per person
+- Services: Dine-in, takeaway and delivery
+- Facebook: Available
+
+Create a strong and elegant Italian-Mediterranean visual identity with a warm, sophisticated and welcoming atmosphere.
+
+The website should include:
+
+1. Hero section
+- Beautiful restaurant/Italian food imagery
+- Restaurant name
+- Short tagline
+- "Reservar mesa" CTA
+- "Ver menú" CTA
+
+2. About / Nuestra Historia
+- Elegant introduction to the restaurant
+- Focus on Italian cuisine, quality and Mediterranean atmosphere
+
+3. Menu
+Create beautiful menu categories:
+- Entrantes
+- Pizzas
+- Pastas
+- Platos principales
+- Postres
+- Bebidas
+
+Use placeholders for dishes and prices until the official menu is provided.
+
+4. Gallery
+- High-quality restaurant and food images
+- Elegant modern layout
+
+5. Testimonials
+- Display the 4.6 Google rating
+- Show customer reviews in a premium testimonial section
+
+6. Reservations
+Create a complete reservation form:
+- Nombre
+- Teléfono
+- Email
+- Número de personas
+- Fecha
+- Hora
+- Notas
+
+Only show available days and reservation hours.
+
+7. Location
+- Interactive map
+- Full restaurant address
+- "Cómo llegar" button
+- Phone button
+
+8. Contact
+- Phone
+- Email placeholder
+- Facebook
+- Instagram placeholder
+
+9. Opening Hours
+Use placeholders until the official opening hours are provided.
+
+10. Admin Panel
+Create a secure admin dashboard where the restaurant owner can:
+- View reservations
+- Search reservations
+- Confirm reservations
+- Cancel reservations
+- Delete reservations
+- View reservation details
+
+Make everything fully responsive and optimized for mobile, tablet and desktop.
+
+The final result should look like a real high-end restaurant website, with excellent typography, spacing, animations and user experience.
+
+Do not invent official business information. Use elegant placeholders for any information that has not been provided yet.
